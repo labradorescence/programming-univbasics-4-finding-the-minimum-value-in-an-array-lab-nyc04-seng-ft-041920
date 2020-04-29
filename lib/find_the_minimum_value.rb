@@ -2,7 +2,7 @@ def find_min_value(arr)
   # Add your solution here
   max = 0
   i = 0
-  while i < arr.length do 
+  while i < arr.length do
     if arr[i] > max
       max = arr[i]
     end
