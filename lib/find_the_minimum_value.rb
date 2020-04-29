@@ -10,3 +10,4 @@ def find_min_value(array)
   return min
   i += 1
 end
+end
